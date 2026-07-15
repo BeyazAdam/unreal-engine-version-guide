@@ -7,6 +7,9 @@
   <a href="https://github.com/BeyazAdam/unreal-engine-version-guide">
     <img src="https://img.shields.io/badge/Repository-unreal--engine--version--guide-orange?style=for-the-badge&logo=github" alt="Repository">
   </a>
+  <a href="https://beyazadam.github.io/unreal-engine-version-guide/">
+    <img src="https://img.shields.io/badge/Interactive%20Tool-Live%20Demo-brightgreen?style=for-the-badge&logo=vercel" alt="Live Demo">
+  </a>
   <img src="https://img.shields.io/badge/Unreal%20Engine-5.4%20%7C%205.8-informational?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine Versions">
 </p>
 
@@ -19,7 +22,7 @@ Merhaba! Ben **[BeyazAdam](https://github.com/BeyazAdam)**.
 Unreal Engine ekosisteminde proje başlatırken en çok zaman kaybedilen ve ileride teknik borç (technical debt) olarak karşımıza çıkan en kritik aşamalardan biri **doğru motor sürümünü seçmektir**. Bu rehber, projenizin türüne, hedef platformuna, ekip boyutuna ve grafik tarzına göre en doğru Unreal Engine sürümünü saniyeler içinde belirlemeniz için bir deniz feneri olması amacıyla hazırlandı.
 
 > [!TIP]
-> Hangi sürümü seçeceğinizden emin değilseniz aşağıdaki **Hızlı Karar Matrisi**'ni inceleyebilir veya en alttaki **Yapay Zeka Karar Verici Promptu**'nu kullanarak kendi projeniz için özel bir analiz raporu oluşturabilirsiniz.
+> 🚀 Saniyeler içinde projenize en uygun sürümü bulmak için **[Interaktif Sürüm Seçim Aracı](https://beyazadam.github.io/unreal-engine-version-guide/)** sayfamızı kullanabilirsiniz!
 
 ### 📌 Hızlı Karar Matrisi (Sürümlerin Güçlü Yanları)
 
@@ -45,7 +48,7 @@ Proje Detaylarım:
 - Hedef Platformlar: [Örn: PC (Steam), Mobil (Android/iOS), Nintendo Switch, Konsol]
 - Grafik Tarzı: [Örn: Fotogerçekçi, Stilize/Toon, Low-Poly]
 - Ekip Boyutu: [Örn: Solo Geliştirici, 3 Kişilik Ekip, Büyük Stüdyo]
-- Kritik Mekanikler: [Örn: Araç fiziği, devasa harita yükleme, yoğun NPC kalabalığı, detaylı yüz animasyonları]
+- Critical Mechanics: [Örn: Araç fiziği, devasa harita yükleme, yoğun NPC kalabalığı, detaylı yüz animasyonları]
 
 Bana şunları analiz et:
 1. Benim için en ideal Unreal Engine sürümü hangisidir ve neden?
@@ -64,7 +67,7 @@ Hi there! I'm **[BeyazAdam](https://github.com/BeyazAdam)**.
 When starting a project in the Unreal Engine ecosystem, one of the most critical decisions that can lead to massive technical debt later is **choosing the wrong engine version**. This guide is designed to act as a lighthouse, helping you determine the most suitable Unreal Engine version for your project's genre, target platforms, team size, and art style in seconds.
 
 > [!IMPORTANT]
-> If you are unsure which version to pick, analyze the **Quick Decision Matrix** below, or use the **AI Decision Maker Prompt** at the bottom to receive a comprehensive technical analysis tailored specifically to your needs.
+> 🚀 To find the perfect engine version for your project in seconds, try our **[Interactive Version Selector](https://beyazadam.github.io/unreal-engine-version-guide/)**!
 
 ### 📌 Quick Decision Matrix (Strengths of Versions)
 
